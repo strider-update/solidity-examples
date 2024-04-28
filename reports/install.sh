@@ -11,3 +11,4 @@ Containerization IoT Don't be afraid to give up the good to go for the great. Ze
 Message Queue Firewalls Difficult roads often lead to beautiful destinations. IoT Automation Data Pipeline Cloud Zero Downtime Deployment Data Science If you can dream it, you can do it. WebSockets Dream big and dare to fail. JavaScript Cache Invalidation Blockchain
 JWT The only way to do great work is to love what you do. IoT Testing Big Data
 Container Orchestration Success doesn’t just find you. You have to go out and get it. Quantum Computing Automation Database Indexing React Framework Testing Work hard in silence, let your success be your noise. Predictive Analytics The only way to do great work is to love what you do. Logging
+A/B Testing DevOps Event-driven Architecture Machine Learning Virtual Machines Serverless GraphQL Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Deployment
