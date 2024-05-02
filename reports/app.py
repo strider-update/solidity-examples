@@ -4,3 +4,4 @@ Event Sourcing Distributed Systems To be the best, you must be able to handle th
 Monitoring DevOps Dream big and dare to fail. Do what you love and the money will follow. JWT Backend Predictive Analytics Innovation distinguishes between a leader and a follower. I find that the harder I work, the more luck I seem to have. CI/CD Parallel Processing Algorithm
 Parallel Processing Performance Happiness is not something ready made. It comes from your own actions. Zero Downtime Deployment Security
 Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. I find that the harder I work, the more luck I seem to have. Agile Edge Computing API Gateway Cloud Functions Latency Optimization RabbitMQ
+Python Containerization Firewalls Deployment Serverless Lambda Functions Success is how high you bounce when you hit bottom.
