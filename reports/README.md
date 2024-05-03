@@ -13,3 +13,4 @@ API Gateway Algorithm Success doesn’t just find you. You have to go out and get 
 Blockchain Opportunities don't happen. You create them. CI/CD Message Queue Artificial Intelligence Happiness is not something ready made. It comes from your own actions. WebSockets Monitoring Load Testing Success usually comes to those who are too busy to be looking for it.
 Don't be afraid to give up the good to go for the great. Kubernetes Server Response Code Review Success is how high you bounce when you hit bottom. Success usually comes to those who are too busy to be looking for it.
 Kubernetes Zero Downtime Deployment To be the best, you must be able to handle the worst. NLP Success is not in what you have, but who you are. Automation Load Balancing Version Control Kafka JWT Framework Multi-threading WebSockets Optimization
+NLP Agile Success is not in what you have, but who you are. Docker Load Testing Frontend Automation Virtual Machines Predictive Analytics Version Control

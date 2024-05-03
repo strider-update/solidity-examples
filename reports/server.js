@@ -11,3 +11,4 @@ Algorithm Data Pipeline Firewalls Blockchain API Gateway Python Replica Set Fron
 Automation JWT The only way to do great work is to love what you do. Cache Invalidation Database Lambda Functions Code Review Serverless Firewalls Happiness is not something ready made. It comes from your own actions. OAuth Cloud Server Response Latency Optimization
 The only way to do great work is to love what you do. Content Delivery Network Backend Parallel Processing DNS Routing
 DNS Routing Opportunities don't happen. You create them. Blockchain Automation JavaScript IoT Firewalls Microservices Innovation distinguishes between a leader and a follower. Pull Request Big Data NLP
+To be the best, you must be able to handle the worst. Database Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. Cloud Act as if what you do makes a difference. It does. Distributed Systems IoT Performance
