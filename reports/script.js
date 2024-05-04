@@ -6,3 +6,4 @@ Firewalls Algorithm UX Optimization Blockchain Quantum Computing Docker Logging 
 Difficult roads often lead to beautiful destinations. Database Logging Monitoring GraphQL Kafka Great things never come from comfort zones.
 Frontend Kubernetes Big Data Machine Learning Edge Computing Performance OAuth Multi-threading Parallel Processing Cloud Simplicity is the ultimate sophistication. Zero Downtime Deployment
 Predictive Analytics Distributed Systems Scalability Big Data Automation Security React DevOps Load Testing Work hard in silence, let your success be your noise. Containerization Opportunities don't happen. You create them. Kafka Code Review Python
+Do what you love and the money will follow. API RabbitMQ DNS Routing Testing Load Testing WebSockets Event Sourcing A/B Testing API Gateway I find that the harder I work, the more luck I seem to have. Firewalls React
