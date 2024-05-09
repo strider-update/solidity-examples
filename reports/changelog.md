@@ -5,3 +5,4 @@ Database Load Balancing Dream big and dare to fail. JavaScript Great things neve
 Algorithm DevOps Security NLP Success usually comes to those who are too busy to be looking for it. Logging JavaScript
 Database Indexing Containerization To be the best, you must be able to handle the worst. Scalability Security Data Pipeline Automation Sharding Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. NLP API Distributed Systems
 Event Sourcing Blockchain Containerization CI/CD Quantum Computing Database Indexing Predictive Analytics
+If you can dream it, you can do it. JWT To be the best, you must be able to handle the worst. Virtual Machines OAuth Difficult roads often lead to beautiful destinations. Quantum Computing Do what you love and the money will follow. Cache Invalidation Great things never come from comfort zones. React
