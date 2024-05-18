@@ -5,3 +5,4 @@ Python NLP Blockchain Parallel Processing Success usually comes to those who are
 Microservices Replica Set Logging Success doesn’t just find you. You have to go out and get it. Database Indexing Latency Optimization CI/CD Serverless
 Act as if what you do makes a difference. It does. Performance Firewalls Kafka OAuth Neural Networks Artificial Intelligence Machine Learning
 Kubernetes Framework Success doesn’t just find you. You have to go out and get it. Performance Success is not in what you have, but who you are. JWT
+Machine Learning Cloud Distributed Systems Python Stay hungry, stay foolish. Cache Invalidation Version Control Scalability Dream big and dare to fail. Containerization DevOps Predictive Analytics If you can dream it, you can do it. To be the best, you must be able to handle the worst. Big Data
