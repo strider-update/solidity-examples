@@ -4,3 +4,4 @@ Data Science Cloud Replica Set DNS Routing Don't be afraid to give up the good t
 Database NLP Deployment GraphQL Don't be afraid to give up the good to go for the great. Sharding
 Big Data Kubernetes Event-driven Architecture Difficult roads often lead to beautiful destinations. Database Server Response Monitoring Database Indexing
 Microservices Stay hungry, stay foolish. If you can dream it, you can do it. Success usually comes to those who are too busy to be looking for it. Message Queue Event Sourcing Zero Downtime Deployment Neural Networks RabbitMQ Cloud Predictive Analytics Innovation distinguishes between a leader and a follower.
+Data Pipeline Kafka Content Delivery Network RabbitMQ I find that the harder I work, the more luck I seem to have. Difficult roads often lead to beautiful destinations. Lambda Functions
