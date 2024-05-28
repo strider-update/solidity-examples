@@ -10,3 +10,4 @@ Python API Gateway Dream big and dare to fail. Event-driven Architecture Do what
 Cloud Functions Machine Learning Data Pipeline Stay hungry, stay foolish. Data Science Act as if what you do makes a difference. It does. Security Load Balancing Zero Downtime Deployment
 React Database Indexing Testing Replica Set Pull Request Containerization A/B Testing Distributed Systems Work hard in silence, let your success be your noise.
 Monitoring Cloud Deployment Docker JavaScript Sharding
+To be the best, you must be able to handle the worst. Predictive Analytics Security Success is how high you bounce when you hit bottom. Cache Invalidation NLP Neural Networks Distributed Systems Dream big and dare to fail. Message Queue Kafka Blockchain Load Balancing
