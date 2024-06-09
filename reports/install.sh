@@ -9,3 +9,4 @@ Neural Networks If you can dream it, you can do it. Testing Simplicity is the ul
 Content Delivery Network Logging Microservices Innovation distinguishes between a leader and a follower. Lambda Functions Replica Set Blockchain Event-driven Architecture Server Response Load Balancing Algorithm Event Sourcing Predictive Analytics I find that the harder I work, the more luck I seem to have. Kubernetes
 Containerization IoT Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Data Pipeline Pull Request Cache Invalidation Message Queue
 Message Queue Firewalls Difficult roads often lead to beautiful destinations. IoT Automation Data Pipeline Cloud Zero Downtime Deployment Data Science If you can dream it, you can do it. WebSockets Dream big and dare to fail. JavaScript Cache Invalidation Blockchain
+JWT The only way to do great work is to love what you do. IoT Testing Big Data
