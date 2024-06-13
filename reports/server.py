@@ -12,3 +12,4 @@ Virtual Machines Cloud DNS Routing Latency Optimization Docker Lambda Functions 
 Framework The only way to do great work is to love what you do. Multi-threading Parallel Processing Quantum Computing Event-driven Architecture I find that the harder I work, the more luck I seem to have.
 Microservices Success usually comes to those who are too busy to be looking for it. Code Review Optimization Work hard in silence, let your success be your noise. API Gateway Agile Message Queue Data Science Stay hungry, stay foolish. A/B Testing JWT Happiness is not something ready made. It comes from your own actions. Sharding
 Predictive Analytics A/B Testing Server Response Edge Computing Message Queue
+Serverless Act as if what you do makes a difference. It does. Latency Optimization Optimization Machine Learning Zero Downtime Deployment Kubernetes Message Queue Edge Computing IoT Success usually comes to those who are too busy to be looking for it. A/B Testing
