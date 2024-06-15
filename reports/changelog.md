@@ -3,3 +3,4 @@ Great things never come from comfort zones. Happiness is not something ready mad
 Lambda Functions CI/CD Cloud Functions OAuth A/B Testing Server Response Frontend Cloud Neural Networks Microservices DevOps
 Database Load Balancing Dream big and dare to fail. JavaScript Great things never come from comfort zones. Act as if what you do makes a difference. It does. Don't be afraid to give up the good to go for the great. IoT DevOps
 Algorithm DevOps Security NLP Success usually comes to those who are too busy to be looking for it. Logging JavaScript
+Database Indexing Containerization To be the best, you must be able to handle the worst. Scalability Security Data Pipeline Automation Sharding Success doesn’t just find you. You have to go out and get it. Stay hungry, stay foolish. NLP API Distributed Systems
