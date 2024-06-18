@@ -5,3 +5,4 @@ Multi-threading Testing Event Sourcing Firewalls Agile Predictive Analytics Clou
 Firewalls Algorithm UX Optimization Blockchain Quantum Computing Docker Logging Simplicity is the ultimate sophistication. The only way to do great work is to love what you do. Container Orchestration Automation
 Difficult roads often lead to beautiful destinations. Database Logging Monitoring GraphQL Kafka Great things never come from comfort zones.
 Frontend Kubernetes Big Data Machine Learning Edge Computing Performance OAuth Multi-threading Parallel Processing Cloud Simplicity is the ultimate sophistication. Zero Downtime Deployment
+Predictive Analytics Distributed Systems Scalability Big Data Automation Security React DevOps Load Testing Work hard in silence, let your success be your noise. Containerization Opportunities don't happen. You create them. Kafka Code Review Python
