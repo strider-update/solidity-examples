@@ -11,3 +11,4 @@ Algorithm If you can dream it, you can do it. API Container Orchestration Cloud 
 Virtual Machines Cloud DNS Routing Latency Optimization Docker Lambda Functions JWT Zero Downtime Deployment JavaScript Event Sourcing Big Data Load Balancing Edge Computing Do what you love and the money will follow.
 Framework The only way to do great work is to love what you do. Multi-threading Parallel Processing Quantum Computing Event-driven Architecture I find that the harder I work, the more luck I seem to have.
 Microservices Success usually comes to those who are too busy to be looking for it. Code Review Optimization Work hard in silence, let your success be your noise. API Gateway Agile Message Queue Data Science Stay hungry, stay foolish. A/B Testing JWT Happiness is not something ready made. It comes from your own actions. Sharding
+Predictive Analytics A/B Testing Server Response Edge Computing Message Queue
