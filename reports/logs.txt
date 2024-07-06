@@ -4,3 +4,4 @@ I find that the harder I work, the more luck I seem to have. Quantum Computing A
 Cache Invalidation Multi-threading UX Optimization Load Balancing Security
 Server Response Simplicity is the ultimate sophistication. React Serverless Logging Load Testing Version Control
 Python Microservices Edge Computing Algorithm DNS Routing Framework Kafka Deployment Work hard in silence, let your success be your noise. Database Indexing Cloud Happiness is not something ready made. It comes from your own actions. Distributed Systems
+Database Indexing Event-driven Architecture DevOps Success is not in what you have, but who you are. WebSockets Virtual Machines Success usually comes to those who are too busy to be looking for it.

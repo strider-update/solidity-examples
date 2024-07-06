@@ -2,3 +2,4 @@ Quantum Computing Don't be afraid to give up the good to go for the great. Happi
 Lambda Functions Machine Learning Pull Request API Quantum Computing Replica Set Deployment Cloud Message Queue Algorithm Don't be afraid to give up the good to go for the great.
 Parallel Processing Dream big and dare to fail. RabbitMQ Cache Invalidation Lambda Functions Monitoring IoT Success doesn’t just find you. You have to go out and get it. Containerization Container Orchestration Cloud Framework DNS Routing Optimization To be the best, you must be able to handle the worst.
 Security Containerization Success is how high you bounce when you hit bottom. Neural Networks React Database Automation UX Optimization Load Testing
+Difficult roads often lead to beautiful destinations. Serverless Success doesn’t just find you. You have to go out and get it. Zero Downtime Deployment WebSockets Deployment
