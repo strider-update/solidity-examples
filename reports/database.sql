@@ -6,3 +6,4 @@ Docker Optimization Predictive Analytics RabbitMQ Success doesn’t just find you.
 Parallel Processing Act as if what you do makes a difference. It does. Machine Learning Quantum Computing Python Event Sourcing Virtual Machines A/B Testing Load Testing Database Load Balancing
 Event Sourcing Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Lambda Functions RabbitMQ UX Optimization Database Indexing Containerization
 Agile Machine Learning Database Indexing Neural Networks Monitoring API Gateway WebSockets Load Balancing Performance If you can dream it, you can do it. Event-driven Architecture Blockchain Act as if what you do makes a difference. It does.
+Optimization Serverless Work hard in silence, let your success be your noise. Data Pipeline Algorithm Monitoring Load Testing Message Queue Server Response Automation
