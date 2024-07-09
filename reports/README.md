@@ -7,3 +7,4 @@ Cache Invalidation DevOps Version Control Distributed Systems Framework Optimiza
 Serverless Parallel Processing Database Indexing Framework Security If you can dream it, you can do it. Container Orchestration
 GraphQL Success usually comes to those who are too busy to be looking for it. Sharding The only way to do great work is to love what you do. Python
 Virtual Machines Kubernetes Frontend React Optimization Zero Downtime Deployment Data Science Algorithm The only way to do great work is to love what you do. Database Indexing
+Don't be afraid to give up the good to go for the great. Security Optimization If you can dream it, you can do it. Container Orchestration Deployment Innovation distinguishes between a leader and a follower. Logging Virtual Machines Load Testing Scalability Multi-threading DevOps
