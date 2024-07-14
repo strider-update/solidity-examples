@@ -5,3 +5,4 @@ Opportunities don't happen. You create them. Deployment Virtual Machines GraphQL
 Docker Optimization Predictive Analytics RabbitMQ Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower.
 Parallel Processing Act as if what you do makes a difference. It does. Machine Learning Quantum Computing Python Event Sourcing Virtual Machines A/B Testing Load Testing Database Load Balancing
 Event Sourcing Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment Success doesn’t just find you. You have to go out and get it. Lambda Functions RabbitMQ UX Optimization Database Indexing Containerization
+Agile Machine Learning Database Indexing Neural Networks Monitoring API Gateway WebSockets Load Balancing Performance If you can dream it, you can do it. Event-driven Architecture Blockchain Act as if what you do makes a difference. It does.
