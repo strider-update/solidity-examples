@@ -7,3 +7,4 @@ Database Indexing Neural Networks Load Testing Don't be afraid to give up the go
 JavaScript Logging Content Delivery Network Act as if what you do makes a difference. It does. Event-driven Architecture Replica Set WebSockets Load Testing Artificial Intelligence Difficult roads often lead to beautiful destinations.
 Zero Downtime Deployment The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Do what you love and the money will follow. Opportunities don't happen. You create them. JWT Event-driven Architecture Act as if what you do makes a difference. It does. Automation Content Delivery Network
 Python API Gateway Dream big and dare to fail. Event-driven Architecture Do what you love and the money will follow. Testing IoT
+Cloud Functions Machine Learning Data Pipeline Stay hungry, stay foolish. Data Science Act as if what you do makes a difference. It does. Security Load Balancing Zero Downtime Deployment
