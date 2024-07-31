@@ -4,3 +4,4 @@ Container Orchestration CI/CD Version Control DNS Routing Serverless DevOps Logg
 Data Science Edge Computing Do what you love and the money will follow. Pull Request Replica Set OAuth
 Backend Opportunities don't happen. You create them. Predictive Analytics Work hard in silence, let your success be your noise. Docker Virtual Machines Testing Edge Computing Act as if what you do makes a difference. It does. RabbitMQ Load Balancing Event-driven Architecture Performance Zero Downtime Deployment
 Edge Computing Sharding Logging Replica Set Don't be afraid to give up the good to go for the great. WebSockets Blockchain Stay hungry, stay foolish. API Algorithm DevOps Serverless Data Science Code Review
+Deployment Opportunities don't happen. You create them. Server Response Content Delivery Network Agile The only way to do great work is to love what you do. IoT Event-driven Architecture Automation Data Science API
