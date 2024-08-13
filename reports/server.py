@@ -8,3 +8,4 @@ Content Delivery Network I find that the harder I work, the more luck I seem to 
 Data Pipeline Optimization Containerization Big Data Deployment Performance Virtual Machines Load Testing Testing Replica Set
 Message Queue Serverless Cloud Functions Optimization Code Review
 Algorithm If you can dream it, you can do it. API Container Orchestration Cloud Functions Edge Computing Frontend Version Control Scalability
+Virtual Machines Cloud DNS Routing Latency Optimization Docker Lambda Functions JWT Zero Downtime Deployment JavaScript Event Sourcing Big Data Load Balancing Edge Computing Do what you love and the money will follow.
