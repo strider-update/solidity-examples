@@ -7,3 +7,4 @@ Blockchain Great things never come from comfort zones. Version Control Predictiv
 Frontend Data Pipeline Load Testing Pull Request Lambda Functions Firewalls Data Science
 Neural Networks If you can dream it, you can do it. Testing Simplicity is the ultimate sophistication. Artificial Intelligence Zero Downtime Deployment Logging Deployment Data Science NLP Frontend Multi-threading Big Data A/B Testing
 Content Delivery Network Logging Microservices Innovation distinguishes between a leader and a follower. Lambda Functions Replica Set Blockchain Event-driven Architecture Server Response Load Balancing Algorithm Event Sourcing Predictive Analytics I find that the harder I work, the more luck I seem to have. Kubernetes
+Containerization IoT Don't be afraid to give up the good to go for the great. Zero Downtime Deployment Data Pipeline Pull Request Cache Invalidation Message Queue
