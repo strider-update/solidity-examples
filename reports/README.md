@@ -6,3 +6,4 @@ I find that the harder I work, the more luck I seem to have. GraphQL Version Con
 Cache Invalidation DevOps Version Control Distributed Systems Framework Optimization Message Queue Happiness is not something ready made. It comes from your own actions. NLP Pull Request Zero Downtime Deployment OAuth Lambda Functions
 Serverless Parallel Processing Database Indexing Framework Security If you can dream it, you can do it. Container Orchestration
 GraphQL Success usually comes to those who are too busy to be looking for it. Sharding The only way to do great work is to love what you do. Python
+Virtual Machines Kubernetes Frontend React Optimization Zero Downtime Deployment Data Science Algorithm The only way to do great work is to love what you do. Database Indexing
