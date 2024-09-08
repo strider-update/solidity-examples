@@ -6,3 +6,4 @@ Kubernetes Database Indexing Kafka A/B Testing Great things never come from comf
 Blockchain Great things never come from comfort zones. Version Control Predictive Analytics UX Optimization Virtual Machines Optimization Quantum Computing
 Frontend Data Pipeline Load Testing Pull Request Lambda Functions Firewalls Data Science
 Neural Networks If you can dream it, you can do it. Testing Simplicity is the ultimate sophistication. Artificial Intelligence Zero Downtime Deployment Logging Deployment Data Science NLP Frontend Multi-threading Big Data A/B Testing
+Content Delivery Network Logging Microservices Innovation distinguishes between a leader and a follower. Lambda Functions Replica Set Blockchain Event-driven Architecture Server Response Load Balancing Algorithm Event Sourcing Predictive Analytics I find that the harder I work, the more luck I seem to have. Kubernetes
