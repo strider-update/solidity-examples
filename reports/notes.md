@@ -8,3 +8,4 @@ Stay hungry, stay foolish. Backend Kubernetes Database Indexing Sharding Multi-t
 Security OAuth Predictive Analytics React Testing Blockchain Event Sourcing Don't be afraid to give up the good to go for the great. Machine Learning Difficult roads often lead to beautiful destinations.
 Success is not in what you have, but who you are. Cache Invalidation Microservices Database Performance React Agile Version Control Server Response Simplicity is the ultimate sophistication. Machine Learning Artificial Intelligence Big Data IoT
 OAuth Neural Networks Cloud Docker If you can dream it, you can do it. Data Science Event Sourcing Cloud Functions
+Message Queue CI/CD GraphQL Monitoring If you can dream it, you can do it. Kubernetes Deployment Logging Testing API Gateway Load Balancing Blockchain Kafka Firewalls Event Sourcing
