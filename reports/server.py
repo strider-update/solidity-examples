@@ -7,3 +7,4 @@ CI/CD Framework Work hard in silence, let your success be your noise. Testing Pr
 Content Delivery Network I find that the harder I work, the more luck I seem to have. Data Science Don't be afraid to give up the good to go for the great. Code Review Logging Neural Networks
 Data Pipeline Optimization Containerization Big Data Deployment Performance Virtual Machines Load Testing Testing Replica Set
 Message Queue Serverless Cloud Functions Optimization Code Review
+Algorithm If you can dream it, you can do it. API Container Orchestration Cloud Functions Edge Computing Frontend Version Control Scalability
