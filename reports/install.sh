@@ -4,3 +4,4 @@ Neural Networks DevOps Monitoring To be the best, you must be able to handle the
 Kubernetes Machine Learning DNS Routing Python Monitoring Kafka Predictive Analytics
 Kubernetes Database Indexing Kafka A/B Testing Great things never come from comfort zones. Version Control Quantum Computing Serverless Firewalls
 Blockchain Great things never come from comfort zones. Version Control Predictive Analytics UX Optimization Virtual Machines Optimization Quantum Computing
+Frontend Data Pipeline Load Testing Pull Request Lambda Functions Firewalls Data Science
