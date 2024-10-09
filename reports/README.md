@@ -4,3 +4,4 @@ Edge Computing Pull Request GraphQL Success is not in what you have, but who you
 Machine Learning Event Sourcing Dream big and dare to fail. JavaScript Virtual Machines Algorithm Content Delivery Network Load Balancing Great things never come from comfort zones. DevOps Deployment
 I find that the harder I work, the more luck I seem to have. GraphQL Version Control CI/CD Security
 Cache Invalidation DevOps Version Control Distributed Systems Framework Optimization Message Queue Happiness is not something ready made. It comes from your own actions. NLP Pull Request Zero Downtime Deployment OAuth Lambda Functions
+Serverless Parallel Processing Database Indexing Framework Security If you can dream it, you can do it. Container Orchestration
