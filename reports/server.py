@@ -6,3 +6,4 @@ Microservices Frontend Work hard in silence, let your success be your noise. Con
 CI/CD Framework Work hard in silence, let your success be your noise. Testing Predictive Analytics Serverless To be the best, you must be able to handle the worst. Backend Big Data Database Performance Database Indexing Lambda Functions The only way to do great work is to love what you do. Automation
 Content Delivery Network I find that the harder I work, the more luck I seem to have. Data Science Don't be afraid to give up the good to go for the great. Code Review Logging Neural Networks
 Data Pipeline Optimization Containerization Big Data Deployment Performance Virtual Machines Load Testing Testing Replica Set
+Message Queue Serverless Cloud Functions Optimization Code Review

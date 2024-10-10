@@ -5,3 +5,4 @@ Edge Computing NLP To be the best, you must be able to handle the worst. Message
 Load Testing Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. NLP Don't be afraid to give up the good to go for the great. Sharding Agile Stay hungry, stay foolish. Logging Load Balancing Replica Set Pull Request Distributed Systems
 Edge Computing Logging Pull Request Automation Agile Event-driven Architecture GraphQL JavaScript
 If you can dream it, you can do it. Pull Request Testing Replica Set Version Control Machine Learning Multi-threading Monitoring Container Orchestration Load Testing Sharding Great things never come from comfort zones.
+Security Agile If you can dream it, you can do it. Don't be afraid to give up the good to go for the great. Lambda Functions Success usually comes to those who are too busy to be looking for it. WebSockets Load Testing CI/CD Do what you love and the money will follow. Database OAuth
