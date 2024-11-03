@@ -1,1 +1,2 @@
 Do what you love and the money will follow. Dream big and dare to fail. Load Testing Work hard in silence, let your success be your noise. React Container Orchestration RabbitMQ Difficult roads often lead to beautiful destinations.
+Great things never come from comfort zones. Happiness is not something ready made. It comes from your own actions. Dream big and dare to fail. Parallel Processing Distributed Systems
