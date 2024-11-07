@@ -2,3 +2,4 @@ Happiness is not something ready made. It comes from your own actions. Great thi
 Zero Downtime Deployment React API Cloud Lambda Functions OAuth
 Stay hungry, stay foolish. WebSockets Algorithm JavaScript Do what you love and the money will follow. API Backend OAuth Python Distributed Systems Code Review Quantum Computing Serverless Don't be afraid to give up the good to go for the great.
 Blockchain Do what you love and the money will follow. Framework Python Work hard in silence, let your success be your noise. Algorithm
+Lambda Functions Latency Optimization Python Stay hungry, stay foolish. UX Optimization Kubernetes Load Balancing Distributed Systems
