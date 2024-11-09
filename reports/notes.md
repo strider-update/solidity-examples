@@ -5,3 +5,4 @@ Blockchain Optimization Happiness is not something ready made. It comes from you
 JavaScript Work hard in silence, let your success be your noise. GraphQL Database Security Monitoring The only way to do great work is to love what you do. Message Queue
 Frontend Event-driven Architecture Monitoring Stay hungry, stay foolish. React Python Load Balancing Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Scalability Code Review
 Stay hungry, stay foolish. Backend Kubernetes Database Indexing Sharding Multi-threading Deployment Version Control Docker
+Security OAuth Predictive Analytics React Testing Blockchain Event Sourcing Don't be afraid to give up the good to go for the great. Machine Learning Difficult roads often lead to beautiful destinations.
