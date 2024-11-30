@@ -3,3 +3,4 @@ Edge Computing Testing Work hard in silence, let your success be your noise. Cod
 Kubernetes Performance Kafka Virtual Machines Optimization Content Delivery Network Sharding Success doesn’t just find you. You have to go out and get it. Code Review Load Balancing NLP
 Edge Computing NLP To be the best, you must be able to handle the worst. Message Queue Cloud Version Control React Neural Networks Firewalls Deployment Load Balancing Act as if what you do makes a difference. It does.
 Load Testing Act as if what you do makes a difference. It does. I find that the harder I work, the more luck I seem to have. NLP Don't be afraid to give up the good to go for the great. Sharding Agile Stay hungry, stay foolish. Logging Load Balancing Replica Set Pull Request Distributed Systems
+Edge Computing Logging Pull Request Automation Agile Event-driven Architecture GraphQL JavaScript
