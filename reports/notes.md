@@ -3,3 +3,4 @@ Kubernetes Framework Microservices WebSockets To be the best, you must be able t
 WebSockets Neural Networks Python If you can dream it, you can do it. Latency Optimization DevOps
 Blockchain Optimization Happiness is not something ready made. It comes from your own actions. Message Queue Sharding Big Data Python OAuth GraphQL
 JavaScript Work hard in silence, let your success be your noise. GraphQL Database Security Monitoring The only way to do great work is to love what you do. Message Queue
+Frontend Event-driven Architecture Monitoring Stay hungry, stay foolish. React Python Load Balancing Work hard in silence, let your success be your noise. To be the best, you must be able to handle the worst. Scalability Code Review
